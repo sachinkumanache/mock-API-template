@@ -1,26 +1,211 @@
 {
-  "users": [
+  "locations": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com"
+      "name": "Jog Falls, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/75139f74-4b40-44e1-9a0f-45a2677b41f4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/fa8659a4-b554-418c-98b2-9b11b1f81644.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 12300,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
     },
     {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane@example.com"
-    }
-  ],
-  "products": [
-    {
-      "id": 101,
-      "name": "Product A",
-      "price": 19.99
+      "name": "Udaipur India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-47128130/original/619880b9-1db6-4569-99ba-07ac6820f434.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/fa8659a4-b554-418c-98b2-9b11b1f81644.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 3200,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
     },
     {
-      "id": 102,
-      "name": "Product B",
-      "price": 29.99
+      "name": "Calangute, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/454710cc-6052-4669-9019-d347e87d9a26.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/fa8659a4-b554-418c-98b2-9b11b1f81644.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 2800,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Udaipur India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/b565e05e-beb5-4643-a76a-0f80a89d0ec9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 4900,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Panchgani, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/b565e05e-beb5-4643-a76a-0f80a89d0ec9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 11400,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Quepem, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/5f7e593c-4df1-43d0-8d42-df33902055b3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 1712,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Quepem, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/3f8ad9b9-b04a-4832-a752-df1ff013e54c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 28529,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Lonavala, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/49383668-6a00-41f0-9390-d655dd00f984.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 8000,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Udaipur India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/5e36d56d-0036-4e58-82fb-d944955549a4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 3700,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Udaipur India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/3dc776ca-d64e-431a-9f58-a050347dc977.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 3709,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "varca, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/8c68c573-a676-4129-a394-aa8df8b176b0.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 18900,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
+    },
+    {
+      "name": "Bhinder, India",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d4fb5357-80f6-46c9-84e6-deda67fdfbcc.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/e83f4de4-ce08-4bb8-bf51-298e15086eeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/0d28850f-3f65-44ab-ab3e-d778dbf297c3.jpeg?im_w=720"
+      ],
+      "distance": "631 kilometers away",
+      "availability": {
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25"
+      },
+      "price_per_night": 7500,
+      "amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Spa"],
+      "rating": 4.92
     }
   ]
 }
