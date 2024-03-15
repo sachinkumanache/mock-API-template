@@ -2,7 +2,7 @@
   "locations": [
     {
       "name": "Jog Falls, India",
-      "images": https://t3.ftcdn.net/jpg/03/24/73/92/360_F_324739203_keeq8udvv0P2h1MLYJ0GLSlTBagoXS48.jpg[
+      "images": [
         "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/75139f74-4b40-44e1-9a0f-45a2677b41f4.jpeg?im_w=720",
         "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/fa8659a4-b554-418c-98b2-9b11b1f81644.jpeg?im_w=720",
         "https://a0.muscache.com/im/pictures/miso/Hosting-666960593239525442/original/26725a5e-0307-415d-bcaa-560a73636f59.jpeg?im_w=720",
@@ -2071,7 +2071,7 @@
       "rating": 2.5
     }
   ],
-  "restaurants":[
+  "restaurants": [
     {
       "name": "Taste of Italy",
       "rating": 4.8,
@@ -2290,5 +2290,5 @@
       "delivery_time": "25 minutes"
     }
   ]
-
 }
+
